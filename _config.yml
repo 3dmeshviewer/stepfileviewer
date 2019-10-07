@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+
+gem 'jekyll-seo-tag'
+
+plugins:
+  - jekyll-seo-tag
